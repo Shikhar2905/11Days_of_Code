@@ -8,3 +8,4 @@
 - https://leetcode.com/problems/merge-two-sorted-lists/description/
 - https://www.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1
 - https://www.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1
+- https://www.geeksforgeeks.org/problems/multiply-two-linked-lists/1
